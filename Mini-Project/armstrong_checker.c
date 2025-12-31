@@ -1,6 +1,6 @@
 #include <stdio.h>
-// Name :- Alok Kumar
-//ERP :- RU-25-10143
+// Name :- Nikhil Raj
+//ERP :- RU-25-10889
 int main() {
     int num, temp, digit, sum = 0;
     int count = 0;
@@ -40,4 +40,5 @@ int main() {
 }
 //Output :-
 // Enter a 3-digit number: 564
+
 // RESULT: INVALID (It is NOT an Armstrong Number)
